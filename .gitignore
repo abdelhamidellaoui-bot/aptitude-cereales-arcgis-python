@@ -1,0 +1,14 @@
+﻿data/
+Projet_Aptitude.gdb/
+*.tif
+*.tfw
+*.aux.xml
+*.aprx
+*.atbx
+*.lock
+*.ldb
+Backup/
+.backups/
+__pycache__/
+*.pyc
+.vscode/
