@@ -4,6 +4,8 @@ Cartographie de l'aptitude des terres à la culture des céréales avec **ArcGIS
 
 ## Résultats
 
+![Carte d'aptitude topographique pour les céréales, plaine du Saïs](resultats/carte_aptitude_corrigee.png)
+
 Surfaces par classe d'aptitude, après lissage (zone d'étude d'environ 2 868 km²) :
 
 | Classe d'aptitude | Surface (km²) |
